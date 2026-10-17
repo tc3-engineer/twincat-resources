@@ -1,0 +1,39 @@
+[submodule "engineering-guide-zh/sources/Beckhoff-USA-Community--SPT-Libraries"]
+	path = engineering-guide-zh/sources/Beckhoff-USA-Community--SPT-Libraries
+	url = https://github.com/Beckhoff-USA-Community/SPT-Libraries.git
+
+[submodule "engineering-guide-zh/sources/Beckhoff-USA-Community--SPT_V4_Samples"]
+	path = engineering-guide-zh/sources/Beckhoff-USA-Community--SPT_V4_Samples
+	url = https://github.com/Beckhoff-USA-Community/SPT_V4_Samples.git
+
+[submodule "engineering-guide-zh/sources/Beckhoff--ADS"]
+	path = engineering-guide-zh/sources/Beckhoff--ADS
+	url = https://github.com/Beckhoff/ADS.git
+
+[submodule "engineering-guide-zh/sources/Beckhoff--TF6000_ADS_DOTNET_V5_Samples"]
+	path = engineering-guide-zh/sources/Beckhoff--TF6000_ADS_DOTNET_V5_Samples
+	url = https://github.com/Beckhoff/TF6000_ADS_DOTNET_V5_Samples.git
+
+[submodule "engineering-guide-zh/sources/bengeisler--TcLog"]
+	path = engineering-guide-zh/sources/bengeisler--TcLog
+	url = https://github.com/bengeisler/TcLog.git
+
+[submodule "engineering-guide-zh/sources/Inxton--TcOpen"]
+	path = engineering-guide-zh/sources/Inxton--TcOpen
+	url = https://github.com/Inxton/TcOpen.git
+
+[submodule "engineering-guide-zh/sources/JustusRijke--TcBuild"]
+	path = engineering-guide-zh/sources/JustusRijke--TcBuild
+	url = https://github.com/JustusRijke/TcBuild.git
+
+[submodule "engineering-guide-zh/sources/StefanHenneken--Blog-2018-06-IEC61131-StatePattern-Sample03"]
+	path = engineering-guide-zh/sources/StefanHenneken--Blog-2018-06-IEC61131-StatePattern-Sample03
+	url = https://github.com/StefanHenneken/Blog-2018-06-IEC61131-StatePattern-Sample03.git
+
+[submodule "engineering-guide-zh/sources/stlehmann--pyads"]
+	path = engineering-guide-zh/sources/stlehmann--pyads
+	url = https://github.com/stlehmann/pyads.git
+
+[submodule "engineering-guide-zh/sources/tcunit--TcUnit"]
+	path = engineering-guide-zh/sources/tcunit--TcUnit
+	url = https://github.com/tcunit/TcUnit.git

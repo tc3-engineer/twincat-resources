@@ -1,5 +1,7 @@
 # TwinCAT Resources
 
+> **中文工程资料库（2026-10-17）**：新增面向 PLC 编程与现场调试的[中文资源总目录](engineering-guide-zh/README.md)、[问题排查指南](engineering-guide-zh/FIELD_GUIDE.md)和[固定版本源码入口](engineering-guide-zh/DOWNLOADS.md)。
+
 A curated list of TwinCAT resources.
 
 ## Disclaimer
@@ -630,4 +632,5 @@ If you have a link which is worth sharing with others, please raise a new issue 
 * [Electrical Automation Hands-On, TwinCAT and Ignition Setup](https://youtube.com/playlist?list=PL762SfoJC-e9CywYPwcDD_atUcSnAnB2b&si=fNwf70g4XQfG4JbN)
 
 </details>
+
 
